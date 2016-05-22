@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.5.22)  22 MAY 2016 22:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.5.22)  22 MAY 2016 22:37
 entering extended mode
 **"C:/Users/User/Desktop/Mukesh-Resume/mukesh resume.tex"
 ("C:/Users/User/Desktop/Mukesh-Resume/mukesh resume.tex"
@@ -140,6 +140,35 @@ File: images/cv_pic.jpg Graphic file (type jpg)
 Package pdftex.def Info: images/cv_pic.jpg used on input line 22.
 (pdftex.def)             Requested size: 85.36382pt x 113.81337pt.
 
+Underfull \hbox (badness 1946) in paragraph at lines 33--33
+[]|\OT1/cmr/m/n/10 St. Lawrence
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--35
+[]|\OT1/cmr/m/n/10 Motilal Jhun-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--35
+\OT1/cmr/m/n/10 jhun Wala
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+[]|\OT1/cmr/m/n/10 Ramrao Adik
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+\OT1/cmr/m/n/10 In-sti-tute Of
+ []
+
+
+Overfull \hbox (58.833pt too wide) in paragraph at lines 29--41
+ [] 
+ []
+
 [1
 
 {C:/Users/User/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./images/cv_
@@ -147,17 +176,18 @@ pic.jpg>] ("mukesh resume.aux") )
 Here is how much of TeX's memory you used:
  1469 strings out of 493634
  19469 string characters out of 3135647
- 171844 words of memory out of 3000000
+ 174844 words of memory out of 3000000
  4886 multiletter control sequences out of 15000+200000
  4255 words of font info for 16 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 27i,5n,23p,281b,263s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 27i,9n,23p,281b,263s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/User/AppData/Local/Programs/MiKTeX 2
-.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/User/AppData/Local/Progr
-ams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on "mukesh resume.pdf" (1 page, 182361 bytes).
+.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/User/AppData/Local/Progr
+ams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/User/AppData
+/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on "mukesh resume.pdf" (1 page, 196740 bytes).
 PDF statistics:
- 15 PDF objects out of 1000 (max. 8388607)
+ 19 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
